@@ -44,7 +44,7 @@ Ask a question about **Peter Pan**
 Example:
 
 ```
-what do you want to know? -> How is Peter Pan?
+what do you want to know? -> Who is Peter Pan?
 Peter Pan is a mischievous and adventurous boy who refuses to grow up. He lives in Neverland with the Lost Boys, fairies, and other mythical creatures.
 ```
 
